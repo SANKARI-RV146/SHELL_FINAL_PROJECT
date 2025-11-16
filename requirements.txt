@@ -1,9 +1,8 @@
-streamlit
-transformers
-sentence-transformers
-faiss-cpu
-rasa==3.4.0
-numpy
+streamlit==1.51.0
+transformers==4.57.1
+sentence-transformers==2.2.2
+faiss-cpu==1.12.0
 pandas
+numpy
 scikit-learn
-openai
+
